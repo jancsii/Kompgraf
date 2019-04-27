@@ -1,0 +1,36 @@
+﻿  subdivision.cpp
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(70): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(78): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(129): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(138): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(139): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(142): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(153): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(163): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(165): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(166): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(203): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(242): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(242): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(243): warning C4101: 'j': unreferenced local variable
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(267): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(268): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(264): warning C4101: 'j': unreferenced local variable
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(264): warning C4101: 'i': unreferenced local variable
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(323): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\info\kompgraf\negyedik\subdivision\subdivision\subdivision.cpp(329): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  subdivision.vcxproj -> C:\Info\Kompgraf\negyedik\subdivision\Debug\subdivision.exe
+  subdivision.vcxproj -> C:\Info\Kompgraf\negyedik\subdivision\Debug\subdivision.pdb (Partial PDB)
