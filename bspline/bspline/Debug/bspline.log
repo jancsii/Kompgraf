@@ -1,0 +1,25 @@
+﻿  bspline.cpp
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(64): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(79): warning C4305: '+=': truncation from 'double' to 'float'
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(89): warning C4305: '+=': truncation from 'double' to 'float'
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(144): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(157): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(158): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(160): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(162): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(164): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(166): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+c:\info\kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\bspline\bspline.cpp(154): warning C4101: 'i': unreferenced local variable
+  bspline.vcxproj -> C:\Info\Kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\Debug\bspline.exe
+  bspline.vcxproj -> C:\Info\Kompgraf\elso\hf-01-b-spline-jancsii\solution\bspline\Debug\bspline.pdb (Partial PDB)
